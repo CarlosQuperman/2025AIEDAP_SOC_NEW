@@ -1,7 +1,7 @@
 # 2025AIEDAP_SOC_NEW2025 수도권역 AIEDAP 신규 연수(1차) 데이터과학의 이해 관련 자료 저장소입니다.
 
 
-* 
+* 어피니티 버블 : https://affinitybubble.com/
 * 데이터 다람쥐 : https://www.youtube.com/@DataSquirrel
 
 * 마무리 설문 링크 : https://docs.google.com/forms/d/e/1FAIpQLSd39hKRjD0DD_2vjMaMVNuKqr1T7Eou0pq5f2XHCEEZSjo6Nw/viewform
