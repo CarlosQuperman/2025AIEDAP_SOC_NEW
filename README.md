@@ -1,6 +1,6 @@
 # 2025AIEDAP_SOC_NEW2025 수도권역 AIEDAP 신규 연수(1차) 데이터과학의 이해 관련 자료 저장소입니다.
 
-
+* 학생 AI 서비스 제작 사례 : Gw1.kr/chardoduck
 * 어피니티 버블 : https://affinitybubble.com/
 * 데이터 다람쥐 : https://www.youtube.com/@DataSquirrel
 
