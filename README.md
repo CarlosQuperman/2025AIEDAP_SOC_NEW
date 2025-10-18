@@ -3,3 +3,4 @@
 * 마무리 설문 링크 : https://affinitybubble.com/
 * 데이터 실습 코랩 노트북 바로 보기(버스 데이터 : 시연용) : https://colab.research.google.com/drive/1ElufZ2W4Dz5SQ724_-rTTiw2JDXvLBTB#scrollTo=0SfW4MopfM5Q
 * 데이터 실습 코랩 노트북 바로 보기(강원도 상권 데이터 : 시연용) : https://colab.research.google.com/drive/1v6UCrpZcJdcvNlyyNO7ZlX9DlKdO8Tr5#scrollTo=5HjNhkCfwHFU
+* 데이터 실습 코랩 노트북 바로 보기(강원도 인구 변화 애니메이션 시각화) : https://colab.research.google.com/drive/11H_3QK716MWLo5MIMASonhRr9NQsq0Xq#scrollTo=eCYGV0PPZAv0
